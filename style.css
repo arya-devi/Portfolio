@@ -770,7 +770,11 @@ section:nth-child(2) .animate{
     .footer p {
         margin-top: 2rem;
         text-align: center;
-    }  
+    }
+    .home {
+        background-size:500px ;
+        background-position: center;
+    }
 }
 @media (max-width: 371px) {
     .home{
