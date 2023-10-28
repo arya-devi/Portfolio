@@ -67,6 +67,7 @@ body {
     color: var(--text-color);
     cursor: pointer;
     display: none;
+    left:30px;
 }
 section {
     min-height: 100vh;
@@ -774,9 +775,6 @@ section:nth-child(2) .animate{
     .home {
         background-size:500px ;
         background-position: center;
-    }
-     #menu-icon {
-        margin-right: 17rem;
     }
 }
 @media (max-width: 371px) {
