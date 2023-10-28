@@ -775,6 +775,9 @@ section:nth-child(2) .animate{
         background-size:500px ;
         background-position: center;
     }
+     #menu-icon {
+        margin-right: 7rem;
+    }
 }
 @media (max-width: 371px) {
     .home{
