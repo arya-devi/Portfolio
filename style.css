@@ -67,7 +67,7 @@ body {
     color: var(--text-color);
     cursor: pointer;
     display: none;
-    left:30px;
+    right:30px;
 }
 section {
     min-height: 100vh;
